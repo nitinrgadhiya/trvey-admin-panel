@@ -108658,7 +108658,7 @@ A.aJO.prototype={
 $1(a){this.a.b=a},
 $S:76}
 A.aJQ.prototype={
-$0(){var s="maantheme@gmail.com",r=this.a
+$0(){var s="trevyretail@gmail.com",r=this.a
 if(r.Ht()&&r.w.a.a!==s)A.jg("Please enter a correct admin email")
 else if(r.Ht()&&r.w.a.a===s)this.b.BF(this.c)},
 $S:12}
@@ -112535,7 +112535,7 @@ l=$.a_
 k=(l==null?$.a_=$.aL():l).aI(0,"[DEFAULT]")
 A.av(k,$.b8(),!0)
 s=8
-return A.F(A.zg(new A.aE(k)).wh("maantheme@gmail.com",o.b.a.a),$async$$0)
+return A.F(A.zg(new A.aE(k)).wh("trevyretail@gmail.com",o.b.a.a),$async$$0)
 case 8:n=b
 s=J.bin(n)!=null?9:10
 break
